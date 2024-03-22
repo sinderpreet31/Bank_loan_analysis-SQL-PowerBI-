@@ -1,0 +1,47 @@
+Problem Statement: Enhanced Dashboard Design for Loan Data Analysis
+
+Objective: Our goal is to develop a series of interconnected dashboards that offer a dynamic and detailed analysis of our loan data to empower decision-making through data-driven insights. These dashboards are designed to provide a comprehensive view of our lending activities, borrower profiles, loan performance, and financial health metrics.
+
+Dashboard 1: Summary Insights
+
+Purpose: To provide a snapshot of key performance indicators (KPIs) critical for evaluating the overall effectiveness and health of our lending operations.
+
+Key Features:
+
+- Total Loan Applications: Monitor the total and Month-to-Date (MTD) applications, analyzing trends and changes Month-over-Month (MoM).
+- Total Funded Amount: Assess the total funds disbursed and keep track of MTD disbursements and MoM variations to understand funding trends.
+- Total Amount Received: Evaluate cash flow through total and MTD amounts received from borrowers, noting MoM fluctuations for financial health assessment.
+- Average Interest Rate: Gauge the cost of lending by calculating and tracking the average interest rate of all loans, including MTD and MoM changes.
+- Average Debt-to-Income Ratio (DTI): Determine borrowers' financial stability by computing the average DTI for all loans and monitoring MTD and MoM changes.
+
+Loan Performance Analysis:
+
+- Distinguish between "Good" and "Bad" loans using specific KPIs such as application percentages, funded amounts, and received amounts.
+- Implement a "Loan Status Grid View" for a detailed categorization by loan status, offering insights into various metrics and facilitating data-driven decision-making.
+
+Dashboard 2: Overview & Trends
+
+Purpose: To visualize lending trends, borrower demographics, and loan purposes through interactive charts, aiding in the identification of patterns and opportunities.
+
+Key Visualizations:
+
+- Monthly Trends by Issue Date (Line Chart): Explore seasonality and long-term trends in lending activities.
+- Regional Analysis by State (Filled Map): Highlight significant lending regions and analyze geographical disparities.
+- Loan Term Analysis (Donut Chart): Understand the distribution of loans across different terms.
+- Employment Length Analysis (Bar Chart): Assess the impact of employment history on lending metrics.
+- **Loan Purpose Breakdown (Bar Chart):** Visualize the reasons borrowers seek financing.
+- **Home Ownership Analysis (Tree Map):** Examine the influence of home ownership on loan applications and disbursements.
+
+Dashboard 3: Detailed Insights
+
+Purpose: To offer a granular view of loan data, providing users with a comprehensive and efficient way to access key metrics and details about loans, borrowers, and loan performance.
+
+Objective: The "Details Dashboard" aims to be a user-friendly platform offering a one-stop solution for in-depth analysis of the loan portfolio, enhancing our ability to make informed lending decisions.
+
+Implementation Strategy:
+
+- Develop each dashboard with a clear, intuitive layout to facilitate easy navigation and interaction.
+- Ensure real-time data integration for up-to-date analysis and decision-making.
+- Employ user feedback loops to continually refine and enhance dashboard functionalities.
+
+By achieving these objectives, we aim to enhance our lending strategies, optimize financial health, and improve borrower satisfaction through insightful data analysis and strategic dashboard design.
